@@ -1,5 +1,7 @@
 Shopping List
 
+
+You mother fucking fuck bitch
 apples
 bananas
 yogurt
@@ -18,5 +20,9 @@ ice cream
 sugar
 flour
 Maa chuda bara
+<<<<<<< HEAD
 Gandu termkichut
 
+=======
+Fuck you motherfucker
+>>>>>>> gud
