@@ -11,8 +11,5 @@ mow lawn
 weed garden
 take out trash
 practice piano
-<<<<<<< HEAD
-plan birthday party!
-=======
 Chodna maghi
->>>>>>> gud
+
