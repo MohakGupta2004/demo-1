@@ -1,2 +1,3 @@
-Mang marieche re chodna
-doing some intentional changes
+printf("Hello");
+printf("world");
+Hello world 
